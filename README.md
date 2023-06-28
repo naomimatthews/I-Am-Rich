@@ -35,7 +35,9 @@ To enhance the app's aesthetics, I delved into icon design. I utilized design to
 
 ## Screenshots
 
-<!-- Add relevant screenshots of the app here -->
+![IAmRich](https://github.com/naomimatthews/I-Am-Rich/assets/67332327/8f752a6d-2e0f-408e-8ce5-e70976a5ffda)
+
+
 
 ## License
 
